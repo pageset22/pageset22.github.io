@@ -1,0 +1,55 @@
+Editorial and Modification Policies for [www.nelisholistictherapies.co.uk]
+
+Effective Date: 15 December 2024
+Prepared By: ExceedCo 
+
+1. Scope of Permissions
+
+This document outlines the policies regarding the management and modification of the website www.nelisholistictherapies.co.uk (hereafter referred to as "the Site"). These policies are binding on all users, administrators, and third parties who may interact with the Site's files, structure, or hosted content.
+
+Any changes to the Site - including, but not limited to, search engine optimisation (SEO) updates, modifications to the codebase, addition or removal of media assets (images, videos, etc.), or adjustments to its functional features - must first be authorised by the person or entity responsible for building the Site (hereafter referred to as "the Developer").
+
+2. Authorised Contact for Changes
+
+To ensure the integrity and functionality of the Site, any proposed changes must be communicated in writing to the Developer. No changes are permitted without prior approval.
+
+Developer Contact Information:
+
+    Website: therapies-offering-peace.top
+
+3. Prohibited Actions Without Authorisation
+
+The following activities are expressly prohibited unless the Developer provides written approval:
+
+    Codebase Modifications:
+        Any changes to the HTML, CSS, JavaScript, PHP, or other programming languages used in the Site's development.
+    Structural Changes:
+        Adjusting page layouts, adding or removing sections of the Site, or reconfiguring existing content.
+    Media Asset Updates:
+        Uploading, replacing, or deleting images, videos, audio files, or downloadable documents.
+    SEO Adjustments:
+        Modifying meta tags, keywords, alt text, or any content related to search engine rankings.
+    Third-Party Integration Changes:
+        Altering or replacing plugins, APIs, or other external tools integrated into the Site.
+    Hosting and Domain Settings:
+        Changing hosting providers, updating DNS records, or altering email server configurations.
+
+4. Consequences of Unauthorised Changes
+
+Unauthorised modifications to the Site may result in the following:
+
+    Loss of Warranty: The Developer will no longer be responsible for maintaining the Site.
+    Functional Disruptions: Changes without proper oversight may lead to performance or security issues.
+    Additional Charges: Rectifying unauthorised changes will incur additional fees at the Developer’s standard hourly rate of £200.
+
+5. Maintenance and Support
+
+The Developer offers ongoing maintenance and support packages tailored to meet the needs of the Site. Please contact the Developer for details regarding available services.
+
+6. Updates to This Policy
+
+The Developer reserves the right to update this document to reflect changes in policies or industry standards. Updated versions will be made available upon request.
+
+Acknowledgement
+
+By accessing or making use of the Site's files, you confirm that you have read, understood, and agree to abide by the policies outlined in this document.
